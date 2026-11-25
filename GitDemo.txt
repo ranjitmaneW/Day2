@@ -1,9 +1,17 @@
 git init  
-git add .
+git add . 
 git commit -m "Add new file"
-
 git add remote origin url
 git branch
 git push -u  origin master
+***************************
+updated file  
+git status
+git add .
+git commit -m "existing file"
+git push  origin master
 
-updated file 
+
+
+
+
